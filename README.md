@@ -1,7 +1,9 @@
 Sample
 
 
-public function test() {
+public function test()
+{
+    
     $params = array(
         'primary_id' => 'receipt_id',
         'id' => '3',
